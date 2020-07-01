@@ -1,0 +1,11 @@
+.container{
+  text-align: center;
+  font-size: 20px;
+  background: orange;
+  height: 300px;
+  width: 100%;
+}
+
+.button {
+  text-align: center;
+}
